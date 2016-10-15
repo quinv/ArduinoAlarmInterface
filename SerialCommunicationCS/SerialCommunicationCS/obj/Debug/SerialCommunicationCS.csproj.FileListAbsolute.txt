@@ -1,0 +1,6 @@
+c:\users\quinten\documents\visual studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\bin\Debug\SerialCommunicationCS.exe.config
+C:\Users\quinten\Documents\Visual Studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\bin\Debug\SerialCommunicationCS.exe
+C:\Users\quinten\Documents\Visual Studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\bin\Debug\SerialCommunicationCS.pdb
+C:\Users\quinten\Documents\Visual Studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\obj\Debug\SerialCommunicationCS.csprojResolveAssemblyReference.cache
+C:\Users\quinten\Documents\Visual Studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\obj\Debug\SerialCommunicationCS.exe
+C:\Users\quinten\Documents\Visual Studio 2015\Projects\SerialCommunicationCS\SerialCommunicationCS\obj\Debug\SerialCommunicationCS.pdb

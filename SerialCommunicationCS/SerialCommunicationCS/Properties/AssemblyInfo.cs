@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SerialReader")]
+[assembly: AssemblyTitle("SerialCommunicationCS")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SerialReader")]
+[assembly: AssemblyProduct("SerialCommunicationCS")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("370dabda-d45b-466c-9613-3c60b80ae39c")]
+[assembly: Guid("0ac162ac-e695-4f44-b93b-79306e255e17")]
 
 // Version information for an assembly consists of the following four values:
 //

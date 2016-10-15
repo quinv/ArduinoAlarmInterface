@@ -1,6 +1,0 @@
-D:\documetns\embedded\SerialReader\SerialReader\bin\Debug\SerialReader.exe.config
-D:\documetns\embedded\SerialReader\SerialReader\bin\Debug\SerialReader.exe
-D:\documetns\embedded\SerialReader\SerialReader\bin\Debug\SerialReader.pdb
-D:\documetns\embedded\SerialReader\SerialReader\obj\Debug\SerialReader.csprojResolveAssemblyReference.cache
-D:\documetns\embedded\SerialReader\SerialReader\obj\Debug\SerialReader.exe
-D:\documetns\embedded\SerialReader\SerialReader\obj\Debug\SerialReader.pdb
